@@ -1,0 +1,44 @@
+body {
+	font-family: arial;
+	line-height: 1.1;
+	font-size: 85%
+}
+ 
+ .heading-paragraph{
+ 	color: gray;
+ 	font-style: italic;
+ }
+
+.wrapper {
+	
+	width: 260px;
+	margin: 20px auto;
+    
+}
+
+.form-row {
+	margin-bottom: 20px ;
+
+}   
+
+.name{
+	padding: 10px ;
+} 
+
+label{
+	display: block;
+	text-align: left;
+}
+
+.form-roww {
+	margin-bottom: 20px;
+} 
+
+.wrapper-button a{
+	background: red;
+	padding: 10px 20px;
+	border-radius: 15px;
+	color: white;
+}
+
+
