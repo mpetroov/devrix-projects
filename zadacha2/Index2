@@ -5,12 +5,12 @@
 </head>
 <body>
 	<div class="wrapper">
-		<h1 class="heading">Hello Word</h1>
+		<h1 class="heading">Hello World</h1>
 		<p class="heading-paragraph">We can change this svg icons from dashboard with font awesome icons or something better looking on all pages that they are shown.</p>
 		<div class="form">  
 
 
-			<a href="#" class="button" >Downloald now</a>
+			<a href="#" class="button" >Download now</a>
 
 
 			<a href="#" class="button basic" >Or skip for later</a>
