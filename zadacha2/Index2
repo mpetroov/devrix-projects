@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./Style2.css">
+</head>
+<body>
+	<div class="wrapper">
+		<h1 class="heading">Hello Word</h1>
+		<p class="heading-paragraph">We can change this svg icons from dashboard with font awesome icons or something better looking on all pages that they are shown.</p>
+		<div class="form">  
+
+
+			<a href="#" class="button" >Downloald now</a>
+
+
+			<a href="#" class="button basic" >Or skip for later</a>
+
+
+		</div>
+	</div>
+
+</body>
+</html>
